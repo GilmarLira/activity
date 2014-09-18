@@ -1,8 +1,4 @@
 
-// INTERACTION
-// ////////////////////////////////////////////////////
-
-
 var arc_radius = 300;
 var hour_radian;
 var minute_radian;
